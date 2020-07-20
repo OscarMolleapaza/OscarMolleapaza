@@ -1,4 +1,4 @@
-![Oscar Molleapaza](images/profile.png)
+![Oscar Molleapaza](https://firebasestorage.googleapis.com/v0/b/platziconf-c7da7.appspot.com/o/profile.png?alt=media&token=79bd6c34-3f80-4801-9167-f679f3652b4c)
 
 ### Hello!! Thanks for visiting my github :blue_heart:
 
